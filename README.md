@@ -1,9 +1,5 @@
-<!DOCTYPE html>
-<html>
-<head>
+
     <title>Список задач</title>
-</head>
-<body>
     <h1>Список задач</h1>
     <div class="tasks">
         <!-- Задачи 1-40 с картинками 1-40 -->
