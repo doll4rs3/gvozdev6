@@ -1,12 +1,17 @@
 
+    <!DOCTYPE html>
+<html>
+<head>
     <title>Список задач</title>
+</head>
+<body>
     <h1>Список задач</h1>
     <div class="tasks">
         <!-- Задачи 1-40 с картинками 1-40 -->
         <div class="task">
             <h2>Задача 1</h2>
             <p>Создайте базовый класс `Shape` с виртуальной функцией `area()`. Реализуйте производные классы `Circle` и `Rectangle`, которые выбрасывают исключение при некорректных параметрах.</p>
-            <img src="screenshots/1.png" alt="Иллюстрация к задаче 1">
+            <img src="screnshots/1.png" alt="Иллюстрация к задаче 1">
         </div>
         <div class="task">
             <h2>Задача 2</h2>
